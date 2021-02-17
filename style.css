@@ -1,0 +1,36 @@
+    h1{
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    /* *{
+    border:solid;
+    border-color:green;
+    } */
+    .header{
+        background-color:lightblue;
+        display: flex;
+        justify-content: space-between;
+    }
+    .menu{
+        background-color: grey;
+    }
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+        justify-content: center;
+        
+
+
+    }
+    h2,p{
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+    }
+    body{
+        background-color: #00ffff25;
+    }
